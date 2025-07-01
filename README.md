@@ -28,6 +28,9 @@ Original buttons: `0‑9`, `AC`, `+ − × ÷`, `=`
 - `%`, `√`, `±`, decimal point
 - An **ON/OFF** switch
 
+[Live Calculator Demo](https://tumellovo.github.io/js-calculator/)
+This project is part of my JavaScript learning journey. The original files can be found in this repo `/calculator.html`.
+
 ---
 
 ### 2. Login Form
