@@ -28,7 +28,7 @@ Original buttons: `0‑9`, `AC`, `+ − × ÷`, `=`
 - `%`, `√`, `±`, decimal point
 - An **ON/OFF** switch
 
-> [**Click here to open the Calculator**](calculator.html)
+<a href="calculator.html" target="_blank" rel="noopener"> Click here to open the Calculator</a>
 
 ---
 
