@@ -1,0 +1,25 @@
+<html>
+    <head>
+        <link rel="stylesheet" type="text/css" href="style.css">
+    </head>
+    <body>
+        <h1 id="heading" onclick="changeText()">Ms Coder</h1>
+        <p id="addition"></p>
+
+        <script>
+            document.getElementById("addition").innerHTML=addNumbers(26, 15);
+
+            function changeText(){
+                if(document.getElementById("heading").innerHTML=='Ms Coder'){
+                    document.getElementById("heading").innerHTML='Will earn seven-figures'
+                } else {
+                    document.getElementById("heading").innerHTML='Ms Coder'
+                }
+            }
+
+            function addNumbers(num1, num2){
+                return num1 + num2
+            }
+        </script>
+    </body>
+</html>
